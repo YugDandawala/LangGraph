@@ -1,0 +1,11 @@
+This is a simple chatbot same as any other chatbots here the features are as follows:
+
+1. New chats -Creating a whole different chats when we uses new chat button.
+2. Streaming feature like every other chatbot to increase user experience.
+3. Threads logic is also implemented to store different chats so that we could stroe our past chats.
+4. PostgreSql Database connection so store the chats so that on refresh or on closing that site 
+   and revisiting after some hours or days it still have stored chats.
+5. Langsmith integration to have observbility to observe our whole Chatbot working system
+   which helps in debugging if some issue occurs.
+6. Tools connection to chatbot so that it can access different tools and use it when required.
+7. Rag Based system is Also implemented.

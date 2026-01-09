@@ -1,0 +1,8 @@
+1.--This is just an example to how to use mcp client and tools so that llm can work with our self made
+    tools as well as some other MCP server tools that we need and MCP always Need Asyncronization.
+
+2.--That why here all code is converted to async and streamlit by default doesnt support sync
+    so Never us streamlit as frontend when working with MCP's.
+
+3.--This is campusx sir example code as we know this whole repo is made with examples of the langraph playlist 
+    so that if anyone needs a proper repo where everything is managed for learning langgraph in a good way can use it.
