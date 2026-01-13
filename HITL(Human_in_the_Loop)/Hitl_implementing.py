@@ -89,7 +89,7 @@ graph.add_edge(START, "chat_node")
 graph.add_conditional_edges("chat_node", tools_condition)
 graph.add_edge("tools", "chat_node")
 
-chatbot = graph.compile(checkpointer=memory)
+chatbot = graph.compile(checkpointer = memory)
 
 
 if __name__ == "__main__":
